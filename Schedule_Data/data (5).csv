@@ -1,0 +1,359 @@
+﻿season,week,seasonType,homeTeam,awayTeam,outlet,startTime
+2023,1,regular,Vanderbilt,Hawai'i,SECN,2023-08-26T23:30:00.000Z
+2023,1,regular,USC,San José State,PAC12,2023-08-27T00:00:00.000Z
+2023,1,regular,Notre Dame,Navy,NBC,2023-08-26T18:30:00.000Z
+2023,1,regular,New Mexico State,UMass,ESPN,2023-08-26T23:00:00.000Z
+2023,1,regular,San Diego State,Ohio,FS1,2023-08-26T23:00:00.000Z
+2023,1,regular,Jacksonville State,UTEP,CBSSN,2023-08-26T21:30:00.000Z
+2023,1,regular,Louisiana Tech,Florida International,CBSSN,2023-08-27T01:00:00.000Z
+2023,1,regular,Minnesota,Nebraska,FOX,2023-09-01T00:00:00.000Z
+2023,1,regular,Arizona State,Southern Utah,PAC12,2023-09-01T02:00:00.000Z
+2023,1,regular,Wake Forest,Elon,ACCN,2023-08-31T23:00:00.000Z
+2023,1,regular,Kansas,Missouri State,BIG12|ESPN+,2023-09-02T00:00:00.000Z
+2023,1,regular,UCF,Kent State,FS1,2023-08-31T23:00:00.000Z
+2023,1,regular,UAB,North Carolina A&T,ESPN+,2023-09-01T00:00:00.000Z
+2023,1,regular,Michigan,East Carolina,Peacock,2023-09-02T16:00:00.000Z
+2023,1,regular,Michigan State,Central Michigan,FS1,2023-09-01T23:00:00.000Z
+2023,1,regular,Mississippi State,Southeastern Louisiana,SECN,2023-09-02T20:00:00.000Z
+2023,1,regular,New Mexico State,Western Illinois,ESPN+,2023-09-03T01:00:00.000Z
+2023,3,regular,Iowa,Western Michigan,BTN,2023-09-16T19:30:00.000Z
+2023,3,regular,Kentucky,Akron,ESPNU,2023-09-16T23:30:00.000Z
+2023,3,regular,Louisiana Tech,North Texas,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Maryland,Virginia,FS1,2023-09-15T23:00:00.000Z
+2023,3,regular,Michigan,Bowling Green,BTN,2023-09-16T23:30:00.000Z
+2023,3,regular,Michigan State,Washington,Peacock,2023-09-16T21:00:00.000Z
+2023,3,regular,Missouri,Kansas State,SECN,2023-09-16T16:00:00.000Z
+2023,3,regular,Nebraska,Northern Illinois,FS1,2023-09-16T23:00:00.000Z
+2023,3,regular,Ohio State,Western Kentucky,FOX,2023-09-16T20:00:00.000Z
+2023,3,regular,Ole Miss,Georgia Tech,SECN,2023-09-16T23:30:00.000Z
+2023,3,regular,Rutgers,Virginia Tech,BTN,2023-09-16T19:30:00.000Z
+2023,3,regular,UNLV,Vanderbilt,CBSSN,2023-09-16T23:00:00.000Z
+2023,3,regular,Wisconsin,Georgia Southern,BTN,2023-09-16T16:00:00.000Z
+2023,4,regular,Coastal Carolina,Georgia State,ESPN,2023-09-21T23:30:00.000Z
+2023,4,regular,Fresno State,Kent State,CBSSN,2023-09-24T02:30:00.000Z
+2023,4,regular,San José State,Air Force,FS1,2023-09-23T02:30:00.000Z
+2023,4,regular,Florida,Charlotte,SECN+,2023-09-23T23:00:00.000Z
+2023,4,regular,Florida,Charlotte,ESPN+,2023-09-23T23:00:00.000Z
+2023,5,regular,Air Force,San Diego State,CBSSN,2023-10-01T00:00:00.000Z
+2023,5,regular,Connecticut,Utah State,CBSSN,2023-09-30T16:00:00.000Z
+2023,6,regular,Middle Tennessee,Jacksonville State,ESPNU,2023-10-05T00:00:00.000Z
+2023,6,regular,New Mexico State,Florida International,CBSSN,2023-10-05T01:00:00.000Z
+2023,6,regular,Louisiana Tech,Western Kentucky,ESPNU,2023-10-06T00:00:00.000Z
+2023,6,regular,Liberty,Sam Houston State,CBSSN,2023-10-05T23:00:00.000Z
+2023,6,regular,Oklahoma State,Kansas State,ESPN,2023-10-06T23:30:00.000Z
+2023,6,regular,Army,Boston College,CBSSN,2023-10-07T16:00:00.000Z
+2023,9,regular,Florida,Georgia,CBS,2023-10-28T19:30:00.000Z
+2023,9,regular,Notre Dame,Pittsburgh,NBC,2023-10-28T19:30:00.000Z
+2023,10,regular,Troy,South Alabama,ESPN2,2023-11-02T23:30:00.000Z
+2023,10,regular,Syracuse,Boston College,ESPN2,2023-11-03T23:30:00.000Z
+2023,10,regular,Air Force,Army,CBSSN,2023-11-04T18:30:00.000Z
+2023,10,regular,Liberty,Louisiana Tech,CBSSN,2023-11-04T22:00:00.000Z
+2023,10,regular,Clemson,Notre Dame,ABC,2023-11-04T04:00:00.000Z
+2023,10,regular,Fresno State,Boise State,CBSSN,2023-11-05T02:00:00.000Z
+2023,10,regular,Wyoming,Colorado State,CBSSN,2023-11-04T00:00:00.000Z
+2023,13,regular,Michigan State,Penn State,NBC,2023-11-25T00:30:00.000Z
+2023,1,regular,Georgia State,Rhode Island,ESPN+,2023-08-31T23:00:00.000Z
+2023,2,regular,Kansas,Illinois,ESPN2,2023-09-08T23:30:00.000Z
+2023,3,regular,Boise State,North Dakota,FS1,2023-09-16T16:00:00.000Z
+2023,3,regular,Arizona,UTEP,PAC12,2023-09-17T03:00:00.000Z
+2023,3,regular,Auburn,Samford,SECN+,2023-09-16T23:30:00.000Z
+2023,3,regular,Auburn,Samford,ESPN+,2023-09-16T23:30:00.000Z
+2023,3,regular,Buffalo,Liberty,CBSSN,2023-09-16T16:00:00.000Z
+2023,3,regular,Georgia,South Carolina,CBS,2023-09-16T19:30:00.000Z
+2023,4,regular,Virginia,NC State,ESPN,2023-09-22T23:30:00.000Z
+2023,4,regular,San Diego State,Boise State,CBSSN,2023-09-23T02:30:00.000Z
+2023,4,regular,Purdue,Wisconsin,FS1,2023-09-22T23:00:00.000Z
+2023,5,regular,Tulsa,Temple,ESPN,2023-09-28T23:30:00.000Z
+2023,5,regular,Western Kentucky,Middle Tennessee,CBSSN,2023-09-28T23:30:00.000Z
+2023,5,regular,Oregon State,Utah,FS1,2023-09-30T01:00:00.000Z
+2023,5,regular,NC State,Louisville,ESPN,2023-09-29T23:00:00.000Z
+2023,5,regular,UTEP,Louisiana Tech,CBSSN,2023-09-30T01:00:00.000Z
+2023,7,regular,Utah State,Fresno State,CBSSN,2023-10-14T00:00:00.000Z
+2023,11,regular,Navy,UAB,CBSSN,2023-11-11T20:30:00.000Z
+2023,11,regular,San José State,Fresno State,CBSSN,2023-11-12T03:30:00.000Z
+2023,11,regular,UNLV,Wyoming,FS1,2023-11-11T03:45:00.000Z
+2023,13,regular,New Mexico,Utah State,CBSSN,2023-11-24T20:30:00.000Z
+2023,13,regular,Nevada,Wyoming,CBSSN,2023-11-26T02:00:00.000Z
+2023,13,regular,Arkansas,Missouri,CBS,2023-11-24T21:00:00.000Z
+2023,13,regular,Michigan,Ohio State,FOX,2023-11-25T17:00:00.000Z
+2023,13,regular,UTEP,Liberty,CBSSN,2023-11-25T20:30:00.000Z
+2023,15,regular,Army,Navy,CBS,2023-12-09T20:00:00.000Z
+2023,1,regular,Western Michigan,St Francis (PA),ESPN+,2023-08-31T23:00:00.000Z
+2023,1,regular,Connecticut,NC State,CBSSN,2023-08-31T23:30:00.000Z
+2023,1,regular,Missouri,South Dakota,SECN,2023-09-01T00:00:00.000Z
+2023,1,regular,Utah,Florida,ESPN,2023-09-01T00:00:00.000Z
+2023,1,regular,Tulsa,Arkansas-Pine Bluff,ESPN+,2023-09-01T00:00:00.000Z
+2023,1,regular,Eastern Michigan,Howard,ESPN+,2023-09-01T22:30:00.000Z
+2023,1,regular,Miami,Miami (OH),ACCN,2023-09-01T23:00:00.000Z
+2023,1,regular,Georgia Tech,Louisville,ESPN,2023-09-01T23:30:00.000Z
+2023,1,regular,Hawai'i,Stanford,CBSSN,2023-09-02T03:00:00.000Z
+2023,1,regular,Iowa,Utah State,FS1,2023-09-02T16:00:00.000Z
+2023,1,regular,Kentucky,Ball State,SECN,2023-09-02T16:00:00.000Z
+2023,1,regular,Liberty,Bowling Green,CBSSN,2023-09-02T16:00:00.000Z
+2023,1,regular,Purdue,Fresno State,BTN,2023-09-02T16:00:00.000Z
+2023,1,regular,SMU,Louisiana Tech,ESPNU,2023-09-02T16:00:00.000Z
+2023,1,regular,Tennessee,Virginia,ABC,2023-09-02T16:00:00.000Z
+2023,1,regular,TCU,Colorado,FOX,2023-09-02T16:00:00.000Z
+2023,1,regular,Boston College,Northern Illinois,ACCN,2023-09-02T16:00:00.000Z
+2023,1,regular,Oklahoma,Arkansas State,ESPN,2023-09-02T16:00:00.000Z
+2023,1,regular,Ole Miss,Mercer,SECN+,2023-09-02T18:00:00.000Z
+2023,1,regular,Ole Miss,Mercer,ESPN+,2023-09-02T18:00:00.000Z
+2023,1,regular,Iowa State,Northern Iowa,BIG12|ESPN+,2023-09-02T18:00:00.000Z
+2023,1,regular,Temple,Akron,ESPN+,2023-09-02T18:00:00.000Z
+2023,1,regular,Ohio,Long Island University,ESPN+,2023-09-02T18:00:00.000Z
+2023,1,regular,Oregon,Portland State,PAC12,2023-09-02T19:00:00.000Z
+2023,1,regular,Indiana,Ohio State,CBS,2023-09-02T19:30:00.000Z
+2023,1,regular,Auburn,UMass,ESPN,2023-09-02T19:30:00.000Z
+2023,1,regular,Maryland,Towson,BTN,2023-09-02T19:30:00.000Z
+2023,1,regular,Wisconsin,Buffalo,FS1,2023-09-02T19:30:00.000Z
+2023,1,regular,Western Kentucky,South Florida,CBSSN,2023-09-02T19:30:00.000Z
+2023,1,regular,Washington,Boise State,ABC,2023-09-02T19:30:00.000Z
+2023,1,regular,Notre Dame,Tennessee State,NBC,2023-09-02T19:30:00.000Z
+2023,1,regular,Pittsburgh,Wofford,ACCN,2023-09-02T19:30:00.000Z
+2023,1,regular,Cincinnati,Eastern Kentucky,BIG12|ESPN+,2023-09-02T19:30:00.000Z
+2023,1,regular,Texas,Rice,FOX,2023-09-02T19:30:00.000Z
+2023,1,regular,Appalachian State,Gardner-Webb,ESPN+,2023-09-02T19:30:00.000Z
+2023,1,regular,Arkansas,Western Carolina,SECN+,2023-09-02T20:00:00.000Z
+2023,1,regular,Arkansas,Western Carolina,ESPN+,2023-09-02T20:00:00.000Z
+2023,1,regular,North Texas,California,ESPNU,2023-09-02T20:00:00.000Z
+2023,1,regular,Syracuse,Colgate,ACCNX,2023-09-02T20:00:00.000Z
+2023,1,regular,Syracuse,Colgate,ESPN+,2023-09-02T20:00:00.000Z
+2023,1,regular,Georgia,UT Martin,SECN+,2023-09-02T22:00:00.000Z
+2023,1,regular,Georgia,UT Martin,ESPN+,2023-09-02T22:00:00.000Z
+2023,1,regular,Charlotte,South Carolina State,ESPN+,2023-09-02T22:00:00.000Z
+2023,1,regular,Florida Atlantic,Monmouth,ESPN+,2023-09-02T22:00:00.000Z
+2023,1,regular,Georgia Southern,The Citadel,ESPN+,2023-09-02T22:00:00.000Z
+2023,1,regular,James Madison,Bucknell,ESPN+,2023-09-02T22:00:00.000Z
+2023,1,regular,Marshall,Albany,ESPN+,2023-09-02T22:00:00.000Z
+2023,1,regular,Florida International,Maine,ESPN+,2023-09-02T22:30:00.000Z
+2023,1,regular,USC,Nevada,PAC12,2023-09-02T22:30:00.000Z
+2023,1,regular,Texas A&M,New Mexico,ESPN,2023-09-02T23:00:00.000Z
+2023,1,regular,Vanderbilt,Alabama A&M,SECN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Vanderbilt,Alabama A&M,ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Colorado State,Washington State,CBSSN,2023-09-02T23:00:00.000Z
+2023,1,regular,Baylor,Texas State,BIG12|ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Houston,UT San Antonio,FS1,2023-09-02T23:00:00.000Z
+2023,1,regular,Kansas State,Southeast Missouri State,BIG12|ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Oklahoma State,Central Arkansas,BIG12|ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Memphis,Bethune-Cookman,ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Southern Mississippi,Alcorn State,ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Troy,Stephen F. Austin,ESPN+,2023-09-02T23:00:00.000Z
+2023,1,regular,Alabama,Middle Tennessee,SECN,2023-09-02T23:30:00.000Z
+2023,1,regular,Illinois,Toledo,BTN,2023-09-02T23:30:00.000Z
+2023,1,regular,North Carolina,South Carolina,ABC,2023-09-02T23:30:00.000Z
+2023,1,regular,Penn State,West Virginia,NBC,2023-09-02T23:30:00.000Z
+2023,1,regular,Wyoming,Texas Tech,CBS,2023-09-02T23:30:00.000Z
+2023,1,regular,Louisiana,Northwestern State,ESPN+,2023-09-02T23:30:00.000Z
+2023,1,regular,Virginia Tech,Old Dominion,ACCN,2023-09-03T00:00:00.000Z
+2023,1,regular,Tulane,South Alabama,ESPNU,2023-09-03T00:00:00.000Z
+2023,1,regular,UTEP,Incarnate Word,ESPN+,2023-09-03T01:00:00.000Z
+2023,1,regular,Arizona,Northern Arizona,PAC12,2023-09-03T02:00:00.000Z
+2023,1,regular,BYU,Sam Houston State,FS1,2023-09-03T02:15:00.000Z
+2023,1,regular,UCLA,Coastal Carolina,ESPN,2023-09-03T02:30:00.000Z
+2023,1,regular,San Diego State,Idaho State,CBSSN,2023-09-03T02:30:00.000Z
+2023,1,regular,Rutgers,Northwestern,CBS,2023-09-03T16:00:00.000Z
+2023,1,regular,San José State,Oregon State,CBS,2023-09-03T19:30:00.000Z
+2023,1,regular,Florida State,LSU,ABC,2023-09-03T23:30:00.000Z
+2023,1,regular,Duke,Clemson,ESPN,2023-09-05T00:00:00.000Z
+2023,2,regular,Louisville,Murray State,ACCN,2023-09-07T23:30:00.000Z
+2023,2,regular,Indiana,Indiana State,BTN,2023-09-09T04:00:00.000Z
+2023,2,regular,Tennessee,Austin Peay,SECN+,2023-09-09T04:00:00.000Z
+2023,2,regular,Tennessee,Austin Peay,ESPN+,2023-09-09T04:00:00.000Z
+2023,2,regular,Wake Forest,Vanderbilt,ACCN,2023-09-09T15:00:00.000Z
+2023,2,regular,Army,Delaware State,CBSSN,2023-09-09T16:00:00.000Z
+2023,2,regular,Colorado,Nebraska,FOX,2023-09-09T16:00:00.000Z
+2023,2,regular,Georgia,Ball State,SECN,2023-09-09T16:00:00.000Z
+2023,2,regular,Ohio State,Youngstown State,BTN,2023-09-09T16:00:00.000Z
+2023,2,regular,Penn State,Delaware,Peacock,2023-09-09T16:00:00.000Z
+2023,2,regular,Virginia Tech,Purdue,ESPN2,2023-09-09T16:00:00.000Z
+2023,2,regular,Baylor,Utah,ESPN,2023-09-09T16:00:00.000Z
+2023,2,regular,NC State,Notre Dame,ABC,2023-09-09T16:00:00.000Z
+2023,2,regular,Boston College,Holy Cross,ACCNX,2023-09-09T16:00:00.000Z
+2023,2,regular,Boston College,Holy Cross,ESPN+,2023-09-09T16:00:00.000Z
+2023,2,regular,Virginia,James Madison,ESPNU,2023-09-09T16:00:00.000Z
+2023,2,regular,Kansas State,Troy,FS1,2023-09-09T16:00:00.000Z
+2023,2,regular,Georgia Tech,South Carolina State,ACCNX,2023-09-09T17:00:00.000Z
+2023,2,regular,Georgia Tech,South Carolina State,ESPN+,2023-09-09T17:00:00.000Z
+2023,2,regular,Central Michigan,New Hampshire,ESPN+,2023-09-09T17:30:00.000Z
+2023,2,regular,Bowling Green,Eastern Illinois,ESPN+,2023-09-09T18:00:00.000Z
+2023,2,regular,Clemson,Charleston Southern,ACCN,2023-09-09T18:15:00.000Z
+2023,2,regular,Kentucky,Eastern Kentucky,SECN+,2023-09-09T19:00:00.000Z
+2023,2,regular,Kentucky,Eastern Kentucky,ESPN+,2023-09-09T19:00:00.000Z
+2023,2,regular,BYU,Southern Utah,BIG12|ESPN+,2023-09-09T19:00:00.000Z
+2023,2,regular,Iowa State,Iowa,FOX,2023-09-09T19:30:00.000Z
+2023,2,regular,Miami,Texas A&M,ABC,2023-09-09T19:30:00.000Z
+2023,2,regular,Michigan,UNLV,CBS,2023-09-09T19:30:00.000Z
+2023,2,regular,Michigan State,Richmond,BTN,2023-09-09T19:30:00.000Z
+2023,2,regular,Northwestern,UTEP,BTN,2023-09-09T19:30:00.000Z
+2023,2,regular,Tulane,Ole Miss,ESPN2,2023-09-09T19:30:00.000Z
+2023,2,regular,UMass,Miami (OH),ESPN+,2023-09-09T19:30:00.000Z
+2023,2,regular,UT San Antonio,Texas State,ESPN+,2023-09-09T19:30:00.000Z
+2023,2,regular,Navy,Wagner,CBSSN,2023-09-09T19:30:00.000Z
+2023,2,regular,Northern Illinois,Southern Illinois,ESPN+,2023-09-09T19:30:00.000Z
+2023,2,regular,Toledo,Texas Southern,ESPN+,2023-09-09T19:30:00.000Z
+2023,2,regular,Arkansas,Kent State,SECN,2023-09-09T20:00:00.000Z
+2023,2,regular,East Carolina,Marshall,ESPNU,2023-09-09T20:00:00.000Z
+2023,2,regular,Washington,Tulsa,PAC12,2023-09-09T21:00:00.000Z
+2023,2,regular,South Alabama,Southeastern Louisiana,ESPN+,2023-09-09T21:00:00.000Z
+2023,2,regular,North Carolina,Appalachian State,ACCN,2023-09-09T21:15:00.000Z
+2023,2,regular,Liberty,New Mexico State,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Old Dominion,Louisiana,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Duke,Lafayette,ACCNX,2023-09-09T22:00:00.000Z
+2023,2,regular,Duke,Lafayette,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Oklahoma,SMU,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,West Virginia,Duquesne,BIG12|ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Georgia Southern,UAB,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Florida Atlantic,Ohio,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Akron,Morgan State,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Buffalo,Fordham,ESPN+,2023-09-09T22:00:00.000Z
+2023,2,regular,Florida International,North Texas,ESPN+,2023-09-09T22:30:00.000Z
+2023,2,regular,Alabama,Texas,ESPN,2023-09-09T23:00:00.000Z
+2023,2,regular,Coastal Carolina,Jacksonville State,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Georgia State,Connecticut,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Louisiana Tech,Northwestern State,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Missouri,Middle Tennessee,SECN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Missouri,Middle Tennessee,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Western Kentucky,Houston Christian,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Texas Tech,Oregon,FOX,2023-09-09T23:00:00.000Z
+2023,2,regular,Boise State,UCF,FS1,2023-09-09T23:00:00.000Z
+2023,2,regular,South Florida,Florida A&M,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Arkansas State,Memphis,ESPN+,2023-09-09T23:00:00.000Z
+2023,2,regular,Florida,McNeese,ESPNU,2023-09-09T23:30:00.000Z
+2023,2,regular,LSU,Grambling,SECN+,2023-09-09T23:30:00.000Z
+2023,2,regular,LSU,Grambling,ESPN+,2023-09-09T23:30:00.000Z
+2023,2,regular,Maryland,Charlotte,NBC,2023-09-09T23:30:00.000Z
+2023,2,regular,Minnesota,Eastern Michigan,BTN,2023-09-09T23:30:00.000Z
+2023,2,regular,Mississippi State,Arizona,SECN,2023-09-09T23:30:00.000Z
+2023,2,regular,Rutgers,Temple,BTN,2023-09-09T23:30:00.000Z
+2023,2,regular,South Carolina,Furman,SECN+,2023-09-09T23:30:00.000Z
+2023,2,regular,South Carolina,Furman,ESPN+,2023-09-09T23:30:00.000Z
+2023,2,regular,Washington State,Wisconsin,ABC,2023-09-09T23:30:00.000Z
+2023,2,regular,San Diego State,UCLA,CBS,2023-09-09T23:30:00.000Z
+2023,2,regular,Sam Houston State,Air Force,CBSSN,2023-09-10T00:00:00.000Z
+2023,2,regular,TCU,Nicholls,BIG12|ESPN+,2023-09-10T00:00:00.000Z
+2023,2,regular,Louisiana Monroe,Lamar,ESPN+,2023-09-10T00:00:00.000Z
+2023,2,regular,Florida State,Southern Mississippi,ACCN,2023-09-10T00:30:00.000Z
+2023,2,regular,Oregon State,UC Davis,PAC12,2023-09-10T01:00:00.000Z
+2023,2,regular,USC,Stanford,FOX,2023-09-10T02:30:00.000Z
+2023,2,regular,California,Auburn,ESPN,2023-09-10T02:30:00.000Z
+2023,2,regular,Arizona State,Oklahoma State,FS1,2023-09-10T02:30:00.000Z
+2023,3,regular,Memphis,Navy,ESPN,2023-09-14T23:30:00.000Z
+2023,3,regular,Miami,Bethune-Cookman,ACCN,2023-09-14T23:30:00.000Z
+2023,3,regular,UT San Antonio,Army,ESPN,2023-09-15T23:00:00.000Z
+2023,3,regular,Air Force,Utah State,CBSSN,2023-09-16T00:00:00.000Z
+2023,3,regular,Illinois,Penn State,FOX,2023-09-16T16:00:00.000Z
+2023,3,regular,Mississippi State,LSU,ESPN,2023-09-16T16:00:00.000Z
+2023,3,regular,Boston College,Florida State,ABC,2023-09-16T16:00:00.000Z
+2023,3,regular,Indiana,Louisville,BTN,2023-09-16T16:00:00.000Z
+2023,3,regular,Baylor,Long Island University,BIG12|ESPN+,2023-09-16T16:00:00.000Z
+2023,3,regular,Kent State,Central Connecticut,ESPN+,2023-09-16T16:00:00.000Z
+2023,3,regular,Utah,Weber State,PAC12,2023-09-16T18:00:00.000Z
+2023,3,regular,Eastern Michigan,UMass,ESPN+,2023-09-16T18:00:00.000Z
+2023,3,regular,Temple,Norfolk State,ESPN+,2023-09-16T18:00:00.000Z
+2023,3,regular,Ball State,Indiana State,ESPN+,2023-09-16T18:00:00.000Z
+2023,3,regular,Notre Dame,Central Michigan,Peacock,2023-09-16T18:30:00.000Z
+2023,3,regular,Duke,Northwestern,ACCN,2023-09-16T19:30:00.000Z
+2023,3,regular,South Florida,Alabama,ABC,2023-09-16T19:30:00.000Z
+2023,3,regular,Connecticut,Florida International,CBSSN,2023-09-16T19:30:00.000Z
+2023,3,regular,Appalachian State,East Carolina,ESPN+,2023-09-16T19:30:00.000Z
+2023,3,regular,Texas A&M,Louisiana Monroe,SECN,2023-09-16T20:00:00.000Z
+2023,3,regular,Southern Mississippi,Tulane,ESPNU,2023-09-16T20:00:00.000Z
+2023,3,regular,Charlotte,Georgia State,ESPN+,2023-09-16T22:00:00.000Z
+2023,3,regular,UCF,Villanova,BIG12|ESPN+,2023-09-16T22:30:00.000Z
+2023,3,regular,Florida,Tennessee,ESPN,2023-09-16T23:00:00.000Z
+2023,3,regular,Middle Tennessee,Murray State,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Cincinnati,Miami (OH),BIG12|ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Oklahoma State,South Alabama,BIG12|ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Texas Tech,Tarleton State,BIG12|ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,UAB,Louisiana,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,SMU,Prairie View,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Rice,Texas Southern,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Coastal Carolina,Duquesne,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Arkansas State,Stony Brook,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Texas State,Jackson State,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Toledo,San José State,ESPN+,2023-09-16T23:00:00.000Z
+2023,3,regular,Arkansas,BYU,ESPN2,2023-09-16T23:30:00.000Z
+2023,3,regular,Purdue,Syracuse,NBC,2023-09-16T23:30:00.000Z
+2023,3,regular,Oregon State,San Diego State,FS1,2023-09-16T23:30:00.000Z
+2023,3,regular,West Virginia,Pittsburgh,ABC,2023-09-16T23:30:00.000Z
+2023,3,regular,Houston,TCU,FOX,2023-09-17T00:00:00.000Z
+2023,3,regular,Oregon,Hawai'i,PAC12,2023-09-17T00:00:00.000Z
+2023,3,regular,Clemson,Florida Atlantic,ACCN,2023-09-17T00:00:00.000Z
+2023,3,regular,Texas,Wyoming,LHN,2023-09-17T00:00:00.000Z
+2023,3,regular,Colorado,Colorado State,ESPN,2023-09-17T02:00:00.000Z
+2023,3,regular,Arizona State,Fresno State,FS1,2023-09-17T02:30:00.000Z
+2023,3,regular,Nevada,Kansas,CBSSN,2023-09-17T02:30:00.000Z
+2023,4,regular,Connecticut,Duke,CBSSN,2023-09-23T19:30:00.000Z
+2023,4,regular,East Carolina,Gardner-Webb,ESPN+,2023-09-23T22:00:00.000Z
+2023,4,regular,Houston,Sam Houston State,BIG12|ESPN+,2023-09-23T23:00:00.000Z
+2023,4,regular,Wyoming,Appalachian State,CBSSN,2023-09-23T23:00:00.000Z
+2023,4,regular,Penn State,Iowa,CBS,2023-09-23T23:30:00.000Z
+2023,4,regular,Notre Dame,Ohio State,NBC,2023-09-23T23:30:00.000Z
+2023,5,regular,BYU,Cincinnati,ESPN,2023-09-30T02:15:00.000Z
+2023,5,regular,Navy,South Florida,CBSSN,2023-09-30T19:30:00.000Z
+2023,6,regular,Illinois,Nebraska,FS1,2023-10-07T00:00:00.000Z
+2023,6,regular,Oklahoma,Texas,ABC,2023-10-07T04:00:00.000Z
+2023,6,regular,Navy,North Texas,CBSSN,2023-10-07T19:30:00.000Z
+2023,6,regular,Boise State,San José State,CBSSN,2023-10-08T00:00:00.000Z
+2023,7,regular,Middle Tennessee,Louisiana Tech,CBSSN,2023-10-10T23:00:00.000Z
+2023,7,regular,Jacksonville State,Liberty,ESPNU,2023-10-10T23:30:00.000Z
+2023,7,regular,Appalachian State,Coastal Carolina,ESPN2,2023-10-10T23:30:00.000Z
+2023,7,regular,Florida International,UTEP,ESPN2,2023-10-11T23:30:00.000Z
+2023,7,regular,New Mexico State,Sam Houston State,CBSSN,2023-10-12T01:00:00.000Z
+2023,7,regular,Houston,West Virginia,FS1,2023-10-12T23:00:00.000Z
+2023,7,regular,East Carolina,SMU,ESPN,2023-10-12T23:30:00.000Z
+2023,7,regular,Memphis,Tulane,ESPN,2023-10-13T23:00:00.000Z
+2023,7,regular,Colorado,Stanford,ESPN,2023-10-14T02:00:00.000Z
+2023,7,regular,Army,Troy,CBSSN,2023-10-14T19:30:00.000Z
+2023,7,regular,Air Force,Wyoming,CBSSN,2023-10-14T23:00:00.000Z
+2023,7,regular,Notre Dame,USC,NBC,2023-10-14T23:30:00.000Z
+2023,7,regular,Hawai'i,San Diego State,CBSSN,2023-10-15T03:00:00.000Z
+2023,8,regular,Liberty,Middle Tennessee,CBSSN,2023-10-17T23:00:00.000Z
+2023,8,regular,Jacksonville State,Western Kentucky,ESPNU,2023-10-17T23:30:00.000Z
+2023,8,regular,South Alabama,Southern Mississippi,ESPN2,2023-10-17T23:30:00.000Z
+2023,8,regular,Sam Houston State,Florida International,CBSSN,2023-10-18T23:00:00.000Z
+2023,8,regular,UTEP,New Mexico State,ESPN2,2023-10-19T01:00:00.000Z
+2023,8,regular,Temple,SMU,ESPN2,2023-10-20T23:00:00.000Z
+2023,8,regular,Navy,Air Force,CBS,2023-10-21T16:00:00.000Z
+2023,8,regular,Connecticut,South Florida,CBSSN,2023-10-21T19:30:00.000Z
+2023,8,regular,San José State,Utah State,CBSSN,2023-10-21T23:00:00.000Z
+2023,9,regular,Louisiana Tech,New Mexico State,CBSSN,2023-10-24T23:00:00.000Z
+2023,9,regular,Western Kentucky,Liberty,ESPNU,2023-10-24T23:30:00.000Z
+2023,9,regular,Florida International,Jacksonville State,CBSSN,2023-10-25T23:00:00.000Z
+2023,9,regular,Sam Houston State,UTEP,ESPN2,2023-10-26T00:00:00.000Z
+2023,9,regular,Virginia Tech,Syracuse,ESPN,2023-10-26T23:30:00.000Z
+2023,9,regular,Georgia Southern,Georgia State,ESPN2,2023-10-26T23:30:00.000Z
+2023,9,regular,Charlotte,Florida Atlantic,ESPN2,2023-10-27T23:30:00.000Z
+2023,9,regular,Army,UMass,CBSSN,2023-10-28T16:00:00.000Z
+2023,9,regular,Colorado State,Air Force,CBSSN,2023-10-28T23:00:00.000Z
+2023,9,regular,Nevada,New Mexico,CBSSN,2023-10-29T02:30:00.000Z
+2023,10,regular,Texas Tech,TCU,FS1,2023-11-02T23:00:00.000Z
+2023,10,regular,Duke,Wake Forest,ESPN,2023-11-02T23:30:00.000Z
+2023,11,regular,Louisville,Virginia,ESPN,2023-11-10T00:30:00.000Z
+2023,11,regular,Louisiana,Southern Mississippi,ESPNU,2023-11-10T00:30:00.000Z
+2023,11,regular,SMU,North Texas,ESPN2,2023-11-11T02:00:00.000Z
+2023,11,regular,Penn State,Michigan,FOX,2023-11-11T17:00:00.000Z
+2023,11,regular,Army,Holy Cross,CBSSN,2023-11-11T17:00:00.000Z
+2023,11,regular,Colorado State,San Diego State,CBSSN,2023-11-12T00:00:00.000Z
+2023,11,regular,Ohio State,Michigan State,NBC,2023-11-12T00:30:00.000Z
+2023,12,regular,Pittsburgh,Boston College,ESPN,2023-11-17T00:00:00.000Z
+2023,12,regular,UT San Antonio,South Florida,ESPN2,2023-11-18T02:00:00.000Z
+2023,12,regular,Washington State,Colorado,FS1,2023-11-18T03:30:00.000Z
+2023,12,regular,Alabama,Chattanooga,SECN+,2023-11-18T17:00:00.000Z
+2023,12,regular,Alabama,Chattanooga,ESPN+,2023-11-18T17:00:00.000Z
+2023,12,regular,Army,Coastal Carolina,CBSSN,2023-11-18T17:00:00.000Z
+2023,12,regular,Mississippi State,Southern Mississippi,SECN+,2023-11-18T17:00:00.000Z
+2023,12,regular,Mississippi State,Southern Mississippi,ESPN+,2023-11-18T17:00:00.000Z
+2023,12,regular,Texas A&M,Abilene Christian,SECN+,2023-11-18T17:00:00.000Z
+2023,12,regular,Texas A&M,Abilene Christian,ESPN+,2023-11-18T17:00:00.000Z
+2023,12,regular,Air Force,UNLV,CBSSN,2023-11-18T20:30:00.000Z
+2023,12,regular,Notre Dame,Wake Forest,NBC,2023-11-18T20:30:00.000Z
+2023,12,regular,Utah State,Boise State,CBSSN,2023-11-19T00:00:00.000Z
+2023,12,regular,San José State,San Diego State,CBSSN,2023-11-19T03:30:00.000Z
+2023,13,regular,Mississippi State,Ole Miss,ESPN,2023-11-24T00:30:00.000Z
+2023,13,regular,Nebraska,Iowa,CBS,2023-11-24T17:00:00.000Z
+2023,13,regular,Boston College,Miami,ABC,2023-11-24T17:00:00.000Z
+2023,13,regular,Oklahoma,TCU,FOX,2023-11-24T17:00:00.000Z
+2023,13,regular,Boise State,Air Force,FS1,2023-11-24T21:00:00.000Z
+2023,13,regular,Texas,Texas Tech,ABC,2023-11-25T00:30:00.000Z
+2023,13,regular,Oregon,Oregon State,FOX,2023-11-25T01:30:00.000Z
